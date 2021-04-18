@@ -3,3 +3,5 @@ hello world, i'm binbin!
 这是增量式提交说明
 
 修复式提交紧接在上面
+
+git diff --cached [commitId] 文件：比较暂存区和仓库
